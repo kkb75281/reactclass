@@ -6,4 +6,4 @@ npx create-react-app react01
 
 ## 1차 완성 : 컴퍼넌트 사용, props 사용, swiper 사용
 
-https://courageous-syrniki-3eff5c.netlify.app
+https://kkb7528.netlify.app
